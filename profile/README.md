@@ -68,16 +68,6 @@ Meet the people behind Republikode.
 
 ---
 
-## 🌱 Our Values
-
-| Principle | Meaning |
-|:---|:---|
-| **Output > Omongan** | Let our work speak for itself. |
-| **Konsistensi > Hype** | Sustainable progress matters more than temporary attention. |
-| **Kolaborasi > Ego** | Better things happen when we work together. |
-| **Growth Mentality** | Never stop learning and improving. |
-| **Integritas & Tanggung Jawab** | Build with honesty and accountability. |
-
 ## 🤝 Contribution Guidelines
 
 We welcome developers, designers, and technology enthusiasts who want to grow and contribute.
